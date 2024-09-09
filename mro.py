@@ -1,5 +1,3 @@
-
-## the cod ewill change 
 class d:
     pass
 class e:
